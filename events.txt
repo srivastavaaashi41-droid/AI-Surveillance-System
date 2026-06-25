@@ -1,0 +1,1006 @@
+2026-06-03 14:37:45 - Crowd Detected - People Count: 2
+2026-06-03 14:37:48 - Crowd Detected - People Count: 2
+2026-06-03 14:53:49 - Crowd Detected - People Count: 2
+2026-06-03 14:54:02 - Crowd Detected - People Count: 2
+2026-06-03 14:54:02 - Crowd Detected - People Count: 2
+2026-06-03 14:54:03 - Crowd Detected - People Count: 2
+2026-06-03 14:54:03 - Crowd Detected - People Count: 2
+2026-06-03 14:54:03 - Crowd Detected - People Count: 2
+2026-06-03 14:54:03 - Crowd Detected - People Count: 3
+2026-06-03 14:54:04 - Crowd Detected - People Count: 2
+2026-06-03 14:54:04 - Crowd Detected - People Count: 2
+2026-06-03 14:54:04 - Crowd Detected - People Count: 2
+2026-06-03 14:54:04 - Crowd Detected - People Count: 2
+2026-06-03 14:54:05 - Crowd Detected - People Count: 2
+2026-06-03 14:54:05 - Crowd Detected - People Count: 2
+2026-06-03 14:54:05 - Crowd Detected - People Count: 2
+2026-06-03 14:54:06 - Crowd Detected - People Count: 2
+2026-06-03 14:54:07 - Crowd Detected - People Count: 2
+2026-06-03 14:54:07 - Crowd Detected - People Count: 2
+2026-06-03 15:00:47 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_150047.jpg
+2026-06-03 15:00:47 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150047.jpg
+2026-06-03 15:00:52 | Crowd                          | Crowd detected! 5 people in frame. | Screenshot: screenshots\crowd_20260603_150052.jpg
+2026-06-03 15:00:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150052.jpg
+2026-06-03 15:00:57 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150057.jpg
+2026-06-03 15:00:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150057.jpg
+2026-06-03 15:01:02 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150102.jpg
+2026-06-03 15:01:02 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_150102.jpg
+2026-06-03 15:01:02 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150102.jpg
+2026-06-03 15:01:07 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150107.jpg
+2026-06-03 15:01:08 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150108.jpg
+2026-06-03 15:01:12 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150112.jpg
+2026-06-03 15:01:13 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150113.jpg
+2026-06-03 15:01:17 | Crowd                          | Crowd detected! 6 people in frame. | Screenshot: screenshots\crowd_20260603_150117.jpg
+2026-06-03 15:01:18 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150118.jpg
+2026-06-03 15:01:19 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_150119.jpg
+2026-06-03 15:01:22 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_150122.jpg
+2026-06-03 15:01:23 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150123.jpg
+2026-06-03 15:01:27 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150127.jpg
+2026-06-03 15:01:28 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150128.jpg
+2026-06-03 15:01:32 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150132.jpg
+2026-06-03 15:01:33 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150133.jpg
+2026-06-03 15:01:38 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_150138.jpg
+2026-06-03 15:01:38 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150138.jpg
+2026-06-03 15:01:43 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150143.jpg
+2026-06-03 15:01:43 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150143.jpg
+2026-06-03 15:01:48 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150148.jpg
+2026-06-03 15:01:48 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150148.jpg
+2026-06-03 15:01:53 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150153.jpg
+2026-06-03 15:01:53 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150153.jpg
+2026-06-03 15:01:58 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150158.jpg
+2026-06-03 15:01:58 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150158.jpg
+2026-06-03 15:02:03 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150203.jpg
+2026-06-03 15:02:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150205.jpg
+2026-06-03 15:02:08 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150208.jpg
+2026-06-03 15:02:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150210.jpg
+2026-06-03 15:02:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150215.jpg
+2026-06-03 15:02:20 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150220.jpg
+2026-06-03 15:02:25 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150225.jpg
+2026-06-03 15:02:30 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150230.jpg
+2026-06-03 15:02:35 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150235.jpg
+2026-06-03 15:02:40 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150240.jpg
+2026-06-03 15:02:45 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150245.jpg
+2026-06-03 15:02:48 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150248.jpg
+2026-06-03 15:02:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150250.jpg
+2026-06-03 15:02:54 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150254.jpg
+2026-06-03 15:02:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150255.jpg
+2026-06-03 15:03:00 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150300.jpg
+2026-06-03 15:03:01 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150301.jpg
+2026-06-03 15:03:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150305.jpg
+2026-06-03 15:03:07 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150307.jpg
+2026-06-03 15:03:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150310.jpg
+2026-06-03 15:03:13 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150313.jpg
+2026-06-03 15:03:13 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_150313.jpg
+2026-06-03 15:03:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150315.jpg
+2026-06-03 15:03:20 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150320.jpg
+2026-06-03 15:03:25 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150325.jpg
+2026-06-03 15:03:25 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150325.jpg
+2026-06-03 15:03:30 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150330.jpg
+2026-06-03 15:03:31 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150331.jpg
+2026-06-03 15:03:35 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150335.jpg
+2026-06-03 15:03:40 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150340.jpg
+2026-06-03 15:03:45 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150345.jpg
+2026-06-03 15:03:49 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150349.jpg
+2026-06-03 15:03:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150350.jpg
+2026-06-03 15:03:54 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150354.jpg
+2026-06-03 15:03:56 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150356.jpg
+2026-06-03 15:04:01 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150401.jpg
+2026-06-03 15:04:02 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150402.jpg
+2026-06-03 15:04:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150406.jpg
+2026-06-03 15:04:07 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150407.jpg
+2026-06-03 15:04:11 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150411.jpg
+2026-06-03 15:04:12 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150412.jpg
+2026-06-03 15:04:16 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150416.jpg
+2026-06-03 15:04:17 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150417.jpg
+2026-06-03 15:04:21 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150421.jpg
+2026-06-03 15:04:22 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150422.jpg
+2026-06-03 15:04:26 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150426.jpg
+2026-06-03 15:04:27 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150427.jpg
+2026-06-03 15:04:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150431.jpg
+2026-06-03 15:04:32 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150432.jpg
+2026-06-03 15:04:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150436.jpg
+2026-06-03 15:04:37 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150437.jpg
+2026-06-03 15:04:40 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_150440.jpg
+2026-06-03 15:04:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150441.jpg
+2026-06-03 15:04:46 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150446.jpg
+2026-06-03 15:04:51 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150451.jpg
+2026-06-03 15:04:56 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150456.jpg
+2026-06-03 15:05:01 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150501.jpg
+2026-06-03 15:05:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150506.jpg
+2026-06-03 15:05:11 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150511.jpg
+2026-06-03 15:05:13 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150513.jpg
+2026-06-03 15:05:16 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150516.jpg
+2026-06-03 15:05:20 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150520.jpg
+2026-06-03 15:05:21 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150521.jpg
+2026-06-03 15:05:26 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150526.jpg
+2026-06-03 15:05:28 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150528.jpg
+2026-06-03 15:05:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150531.jpg
+2026-06-03 15:05:33 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_150533.jpg
+2026-06-03 15:05:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150536.jpg
+2026-06-03 15:05:38 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150538.jpg
+2026-06-03 15:05:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150541.jpg
+2026-06-03 15:05:43 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150543.jpg
+2026-06-03 15:05:47 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150547.jpg
+2026-06-03 15:05:48 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150548.jpg
+2026-06-03 15:05:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150552.jpg
+2026-06-03 15:05:54 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150554.jpg
+2026-06-03 15:05:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150557.jpg
+2026-06-03 15:06:02 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150602.jpg
+2026-06-03 15:06:07 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150607.jpg
+2026-06-03 15:06:12 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150612.jpg
+2026-06-03 15:06:13 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150612.jpg
+2026-06-03 15:06:17 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150617.jpg
+2026-06-03 15:06:18 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150618.jpg
+2026-06-03 15:06:22 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150622.jpg
+2026-06-03 15:06:24 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150624.jpg
+2026-06-03 15:06:27 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150627.jpg
+2026-06-03 15:06:31 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_150631.jpg
+2026-06-03 15:06:32 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_150632.jpg
+2026-06-03 15:06:32 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150632.jpg
+2026-06-03 15:06:37 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150637.jpg
+2026-06-03 15:06:37 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150637.jpg
+2026-06-03 15:06:42 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_150642.jpg
+2026-06-03 15:06:42 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150642.jpg
+2026-06-03 15:06:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150650.jpg
+2026-06-03 15:06:50 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150650.jpg
+2026-06-03 15:06:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150655.jpg
+2026-06-03 15:07:00 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150700.jpg
+2026-06-03 15:07:00 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150700.jpg
+2026-06-03 15:07:05 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150705.jpg
+2026-06-03 15:07:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150705.jpg
+2026-06-03 15:07:10 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150710.jpg
+2026-06-03 15:07:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150710.jpg
+2026-06-03 15:07:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150715.jpg
+2026-06-03 15:07:16 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150716.jpg
+2026-06-03 15:07:20 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150720.jpg
+2026-06-03 15:07:22 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150722.jpg
+2026-06-03 15:07:25 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150725.jpg
+2026-06-03 15:07:31 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150731.jpg
+2026-06-03 15:07:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150731.jpg
+2026-06-03 15:07:36 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150736.jpg
+2026-06-03 15:07:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150736.jpg
+2026-06-03 15:07:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150741.jpg
+2026-06-03 15:07:42 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150742.jpg
+2026-06-03 15:07:46 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150746.jpg
+2026-06-03 15:07:48 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150748.jpg
+2026-06-03 15:07:51 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150751.jpg
+2026-06-03 15:07:53 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150753.jpg
+2026-06-03 15:07:56 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150756.jpg
+2026-06-03 15:07:58 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150758.jpg
+2026-06-03 15:08:01 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150801.jpg
+2026-06-03 15:08:05 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150805.jpg
+2026-06-03 15:08:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150806.jpg
+2026-06-03 15:08:14 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150814.jpg
+2026-06-03 15:08:15 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150815.jpg
+2026-06-03 15:08:19 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150819.jpg
+2026-06-03 15:08:24 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150824.jpg
+2026-06-03 15:08:24 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150824.jpg
+2026-06-03 15:08:30 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150830.jpg
+2026-06-03 15:08:33 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150833.jpg
+2026-06-03 15:08:35 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150835.jpg
+2026-06-03 15:08:40 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150840.jpg
+2026-06-03 15:08:45 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150845.jpg
+2026-06-03 15:08:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150850.jpg
+2026-06-03 15:08:54 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150854.jpg
+2026-06-03 15:08:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150855.jpg
+2026-06-03 15:09:00 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150900.jpg
+2026-06-03 15:09:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150905.jpg
+2026-06-03 15:09:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150910.jpg
+2026-06-03 15:09:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150915.jpg
+2026-06-03 15:09:18 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150918.jpg
+2026-06-03 15:09:20 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150920.jpg
+2026-06-03 15:09:25 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150925.jpg
+2026-06-03 15:09:30 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150930.jpg
+2026-06-03 15:09:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150936.jpg
+2026-06-03 15:09:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150941.jpg
+2026-06-03 15:09:46 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150946.jpg
+2026-06-03 15:09:48 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150948.jpg
+2026-06-03 15:09:51 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150951.jpg
+2026-06-03 15:09:54 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150953.jpg
+2026-06-03 15:09:56 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_150956.jpg
+2026-06-03 15:09:59 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_150959.jpg
+2026-06-03 15:10:01 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151001.jpg
+2026-06-03 15:10:04 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151004.jpg
+2026-06-03 15:10:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151006.jpg
+2026-06-03 15:10:11 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151011.jpg
+2026-06-03 15:10:17 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151017.jpg
+2026-06-03 15:10:17 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151017.jpg
+2026-06-03 15:10:22 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151022.jpg
+2026-06-03 15:10:23 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151023.jpg
+2026-06-03 15:10:27 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151027.jpg
+2026-06-03 15:10:31 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151031.jpg
+2026-06-03 15:10:32 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151032.jpg
+2026-06-03 15:10:37 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151037.jpg
+2026-06-03 15:10:42 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151042.jpg
+2026-06-03 15:10:47 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151047.jpg
+2026-06-03 15:10:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151052.jpg
+2026-06-03 15:10:57 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151057.jpg
+2026-06-03 15:10:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151057.jpg
+2026-06-03 15:11:02 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151102.jpg
+2026-06-03 15:11:07 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151107.jpg
+2026-06-03 15:11:12 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151112.jpg
+2026-06-03 15:11:18 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151118.jpg
+2026-06-03 15:11:22 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151122.jpg
+2026-06-03 15:11:23 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151123.jpg
+2026-06-03 15:11:28 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151128.jpg
+2026-06-03 15:11:33 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151133.jpg
+2026-06-03 15:11:38 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151138.jpg
+2026-06-03 15:11:41 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151141.jpg
+2026-06-03 15:11:43 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151143.jpg
+2026-06-03 15:11:48 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151148.jpg
+2026-06-03 15:11:53 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151153.jpg
+2026-06-03 15:11:53 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151153.jpg
+2026-06-03 15:11:58 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151158.jpg
+2026-06-03 15:11:58 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151158.jpg
+2026-06-03 15:12:03 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151203.jpg
+2026-06-03 15:12:04 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151204.jpg
+2026-06-03 15:12:08 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151208.jpg
+2026-06-03 15:12:10 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151210.jpg
+2026-06-03 15:12:13 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151213.jpg
+2026-06-03 15:12:16 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151216.jpg
+2026-06-03 15:12:18 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151218.jpg
+2026-06-03 15:12:21 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151221.jpg
+2026-06-03 15:12:23 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151223.jpg
+2026-06-03 15:12:28 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151228.jpg
+2026-06-03 15:12:33 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151233.jpg
+2026-06-03 15:12:39 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151239.jpg
+2026-06-03 15:12:44 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151244.jpg
+2026-06-03 15:12:49 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151249.jpg
+2026-06-03 15:12:53 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151253.jpg
+2026-06-03 15:12:54 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151254.jpg
+2026-06-03 15:12:59 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151259.jpg
+2026-06-03 15:13:04 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151304.jpg
+2026-06-03 15:13:09 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151309.jpg
+2026-06-03 15:13:13 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151313.jpg
+2026-06-03 15:13:14 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151314.jpg
+2026-06-03 15:13:18 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151318.jpg
+2026-06-03 15:13:19 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151319.jpg
+2026-06-03 15:13:24 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151324.jpg
+2026-06-03 15:13:24 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151324.jpg
+2026-06-03 15:13:29 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151329.jpg
+2026-06-03 15:13:29 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151329.jpg
+2026-06-03 15:13:34 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151334.jpg
+2026-06-03 15:13:35 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151335.jpg
+2026-06-03 15:13:39 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151339.jpg
+2026-06-03 15:13:45 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151345.jpg
+2026-06-03 15:13:47 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151347.jpg
+2026-06-03 15:13:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151350.jpg
+2026-06-03 15:13:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151355.jpg
+2026-06-03 15:14:00 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151400.jpg
+2026-06-03 15:14:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151405.jpg
+2026-06-03 15:14:05 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151405.jpg
+2026-06-03 15:14:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151410.jpg
+2026-06-03 15:14:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151415.jpg
+2026-06-03 15:14:16 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151416.jpg
+2026-06-03 15:14:20 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151420.jpg
+2026-06-03 15:14:24 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151424.jpg
+2026-06-03 15:14:25 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151425.jpg
+2026-06-03 15:14:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151431.jpg
+2026-06-03 15:14:34 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151433.jpg
+2026-06-03 15:14:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151436.jpg
+2026-06-03 15:14:39 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151439.jpg
+2026-06-03 15:14:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151441.jpg
+2026-06-03 15:14:46 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151446.jpg
+2026-06-03 15:14:47 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151447.jpg
+2026-06-03 15:14:51 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151451.jpg
+2026-06-03 15:14:56 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151456.jpg
+2026-06-03 15:14:57 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151457.jpg
+2026-06-03 15:15:01 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151501.jpg
+2026-06-03 15:15:02 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151502.jpg
+2026-06-03 15:15:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151506.jpg
+2026-06-03 15:15:07 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151507.jpg
+2026-06-03 15:15:11 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151511.jpg
+2026-06-03 15:15:12 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151512.jpg
+2026-06-03 15:15:16 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151516.jpg
+2026-06-03 15:15:17 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151517.jpg
+2026-06-03 15:15:21 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151521.jpg
+2026-06-03 15:15:26 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151526.jpg
+2026-06-03 15:15:27 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151527.jpg
+2026-06-03 15:15:27 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151527.jpg
+2026-06-03 15:15:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151531.jpg
+2026-06-03 15:15:32 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151532.jpg
+2026-06-03 15:15:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151536.jpg
+2026-06-03 15:15:37 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151537.jpg
+2026-06-03 15:15:42 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151542.jpg
+2026-06-03 15:15:42 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151542.jpg
+2026-06-03 15:15:47 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151547.jpg
+2026-06-03 15:15:47 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151547.jpg
+2026-06-03 15:15:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151552.jpg
+2026-06-03 15:15:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151557.jpg
+2026-06-03 15:15:59 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151559.jpg
+2026-06-03 15:16:02 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151602.jpg
+2026-06-03 15:16:06 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151606.jpg
+2026-06-03 15:16:07 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151607.jpg
+2026-06-03 15:16:08 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151608.jpg
+2026-06-03 15:16:11 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151611.jpg
+2026-06-03 15:16:12 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151612.jpg
+2026-06-03 15:16:16 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151616.jpg
+2026-06-03 15:16:17 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151617.jpg
+2026-06-03 15:16:21 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151621.jpg
+2026-06-03 15:16:22 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151622.jpg
+2026-06-03 15:16:26 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151626.jpg
+2026-06-03 15:16:27 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151627.jpg
+2026-06-03 15:16:32 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151632.jpg
+2026-06-03 15:16:32 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151632.jpg
+2026-06-03 15:16:37 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151637.jpg
+2026-06-03 15:16:42 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151642.jpg
+2026-06-03 15:16:47 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151647.jpg
+2026-06-03 15:16:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151652.jpg
+2026-06-03 15:16:53 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151653.jpg
+2026-06-03 15:16:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151657.jpg
+2026-06-03 15:17:03 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151703.jpg
+2026-06-03 15:17:04 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151704.jpg
+2026-06-03 15:17:08 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151708.jpg
+2026-06-03 15:17:09 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151709.jpg
+2026-06-03 15:17:13 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151713.jpg
+2026-06-03 15:17:14 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151714.jpg
+2026-06-03 15:17:18 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151718.jpg
+2026-06-03 15:17:23 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151723.jpg
+2026-06-03 15:17:26 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151726.jpg
+2026-06-03 15:17:28 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151728.jpg
+2026-06-03 15:17:33 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151733.jpg
+2026-06-03 15:17:35 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151735.jpg
+2026-06-03 15:17:38 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151738.jpg
+2026-06-03 15:17:43 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151743.jpg
+2026-06-03 15:17:45 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151745.jpg
+2026-06-03 15:17:48 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151748.jpg
+2026-06-03 15:17:50 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151750.jpg
+2026-06-03 15:17:53 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151753.jpg
+2026-06-03 15:17:55 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151755.jpg
+2026-06-03 15:17:58 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151758.jpg
+2026-06-03 15:18:01 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151801.jpg
+2026-06-03 15:18:03 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151803.jpg
+2026-06-03 15:18:08 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151808.jpg
+2026-06-03 15:18:08 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151808.jpg
+2026-06-03 15:18:13 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151813.jpg
+2026-06-03 15:18:16 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151816.jpg
+2026-06-03 15:18:17 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151817.jpg
+2026-06-03 15:18:19 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151819.jpg
+2026-06-03 15:18:22 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151822.jpg
+2026-06-03 15:18:24 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151824.jpg
+2026-06-03 15:18:29 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151829.jpg
+2026-06-03 15:18:30 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151830.jpg
+2026-06-03 15:18:32 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151832.jpg
+2026-06-03 15:18:34 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151834.jpg
+2026-06-03 15:18:39 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151839.jpg
+2026-06-03 15:18:44 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151844.jpg
+2026-06-03 15:18:44 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151844.jpg
+2026-06-03 15:18:45 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151845.jpg
+2026-06-03 15:18:49 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151849.jpg
+2026-06-03 15:18:49 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151849.jpg
+2026-06-03 15:18:54 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151854.jpg
+2026-06-03 15:18:55 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151855.jpg
+2026-06-03 15:18:57 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151857.jpg
+2026-06-03 15:18:59 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151859.jpg
+2026-06-03 15:19:02 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151902.jpg
+2026-06-03 15:19:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151905.jpg
+2026-06-03 15:19:08 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151908.jpg
+2026-06-03 15:19:08 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151908.jpg
+2026-06-03 15:19:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151910.jpg
+2026-06-03 15:19:13 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151913.jpg
+2026-06-03 15:19:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151915.jpg
+2026-06-03 15:19:18 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151918.jpg
+2026-06-03 15:19:19 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151919.jpg
+2026-06-03 15:19:20 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151920.jpg
+2026-06-03 15:19:24 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151924.jpg
+2026-06-03 15:19:25 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151925.jpg
+2026-06-03 15:19:29 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151929.jpg
+2026-06-03 15:19:30 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151930.jpg
+2026-06-03 15:19:35 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151935.jpg
+2026-06-03 15:19:35 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151935.jpg
+2026-06-03 15:19:40 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151940.jpg
+2026-06-03 15:19:45 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151945.jpg
+2026-06-03 15:19:48 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_151948.jpg
+2026-06-03 15:19:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151950.jpg
+2026-06-03 15:19:53 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151953.jpg
+2026-06-03 15:19:53 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_151953.jpg
+2026-06-03 15:19:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_151955.jpg
+2026-06-03 15:19:58 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_151958.jpg
+2026-06-03 15:20:00 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152000.jpg
+2026-06-03 15:20:02 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152002.jpg
+2026-06-03 15:20:03 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152003.jpg
+2026-06-03 15:20:05 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152005.jpg
+2026-06-03 15:20:07 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_152007.jpg
+2026-06-03 15:20:08 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152008.jpg
+2026-06-03 15:20:10 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152010.jpg
+2026-06-03 15:20:12 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152012.jpg
+2026-06-03 15:20:13 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152013.jpg
+2026-06-03 15:20:15 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152015.jpg
+2026-06-03 15:20:18 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152018.jpg
+2026-06-03 15:20:21 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152021.jpg
+2026-06-03 15:20:23 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152023.jpg
+2026-06-03 15:20:26 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152026.jpg
+2026-06-03 15:20:28 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152028.jpg
+2026-06-03 15:20:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152031.jpg
+2026-06-03 15:20:33 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152033.jpg
+2026-06-03 15:20:33 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152033.jpg
+2026-06-03 15:20:36 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152036.jpg
+2026-06-03 15:20:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152041.jpg
+2026-06-03 15:20:46 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152046.jpg
+2026-06-03 15:20:51 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152051.jpg
+2026-06-03 15:20:56 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152056.jpg
+2026-06-03 15:21:01 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152101.jpg
+2026-06-03 15:21:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152106.jpg
+2026-06-03 15:21:11 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152111.jpg
+2026-06-03 15:21:11 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152111.jpg
+2026-06-03 15:21:16 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152116.jpg
+2026-06-03 15:21:16 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152116.jpg
+2026-06-03 15:21:16 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152116.jpg
+2026-06-03 15:21:21 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152121.jpg
+2026-06-03 15:21:21 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152121.jpg
+2026-06-03 15:21:24 | Phone                          | A phone was detected in the surveillance area. | Screenshot: screenshots\phone_20260603_152124.jpg
+2026-06-03 15:21:26 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152126.jpg
+2026-06-03 15:21:31 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152131.jpg
+2026-06-03 15:21:36 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152136.jpg
+2026-06-03 15:21:37 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152137.jpg
+2026-06-03 15:21:41 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152141.jpg
+2026-06-03 15:21:42 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152142.jpg
+2026-06-03 15:21:47 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152147.jpg
+2026-06-03 15:21:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152152.jpg
+2026-06-03 15:21:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152157.jpg
+2026-06-03 15:22:02 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152202.jpg
+2026-06-03 15:22:02 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152202.jpg
+2026-06-03 15:22:07 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152207.jpg
+2026-06-03 15:22:12 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152212.jpg
+2026-06-03 15:22:17 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152217.jpg
+2026-06-03 15:22:18 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152218.jpg
+2026-06-03 15:22:23 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152222.jpg
+2026-06-03 15:22:25 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152225.jpg
+2026-06-03 15:22:28 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152228.jpg
+2026-06-03 15:22:35 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152235.jpg
+2026-06-03 15:22:41 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152241.jpg
+2026-06-03 15:22:41 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152241.jpg
+2026-06-03 15:22:46 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152246.jpg
+2026-06-03 15:22:46 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_152246.jpg
+2026-06-03 15:22:52 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152252.jpg
+2026-06-03 15:22:52 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152252.jpg
+2026-06-03 15:22:57 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152257.jpg
+2026-06-03 15:23:03 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152303.jpg
+2026-06-03 15:23:08 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152308.jpg
+2026-06-03 15:23:14 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152314.jpg
+2026-06-03 15:23:19 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152319.jpg
+2026-06-03 15:23:24 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152324.jpg
+2026-06-03 15:23:29 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152329.jpg
+2026-06-03 15:23:34 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152334.jpg
+2026-06-03 15:23:39 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152339.jpg
+2026-06-03 15:23:45 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152345.jpg
+2026-06-03 15:23:50 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152350.jpg
+2026-06-03 15:23:55 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152355.jpg
+2026-06-03 15:23:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152355.jpg
+2026-06-03 15:24:00 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152400.jpg
+2026-06-03 15:24:04 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152404.jpg
+2026-06-03 15:24:06 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152406.jpg
+2026-06-03 15:24:10 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152410.jpg
+2026-06-03 15:24:11 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152411.jpg
+2026-06-03 15:24:16 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152416.jpg
+2026-06-03 15:24:22 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152422.jpg
+2026-06-03 15:24:27 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152427.jpg
+2026-06-03 15:24:27 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152427.jpg
+2026-06-03 15:24:32 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152432.jpg
+2026-06-03 15:24:34 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152434.jpg
+2026-06-03 15:24:38 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152438.jpg
+2026-06-03 15:24:41 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152441.jpg
+2026-06-03 15:24:44 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152444.jpg
+2026-06-03 15:24:49 | Crowd                          | Crowd detected! 4 people in frame. | Screenshot: screenshots\crowd_20260603_152449.jpg
+2026-06-03 15:24:49 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152449.jpg
+2026-06-03 15:24:55 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152455.jpg
+2026-06-03 15:25:02 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152502.jpg
+2026-06-03 15:25:03 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152503.jpg
+2026-06-03 15:25:07 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152507.jpg
+2026-06-03 15:25:09 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152509.jpg
+2026-06-03 15:25:13 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152513.jpg
+2026-06-03 15:25:15 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152515.jpg
+2026-06-03 15:25:18 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152518.jpg
+2026-06-03 15:25:20 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152520.jpg
+2026-06-03 15:25:23 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152523.jpg
+2026-06-03 15:25:26 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152526.jpg
+2026-06-03 15:25:29 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152529.jpg
+2026-06-03 15:25:32 | Crowd                          | Crowd detected! 3 people in frame. | Screenshot: screenshots\crowd_20260603_152532.jpg
+2026-06-03 15:25:34 | Fight                          | Possible fight or suspicious movement detected! | Screenshot: screenshots\fight_20260603_152534.jpg
+2026-06-03 15:26:03 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152603.jpg
+2026-06-03 15:26:11 | CHEAT                     | Cheating detected! Reason: Head turned (looking RIGHT) | screenshots\cheat_20260603_152611.jpg
+2026-06-03 15:26:13 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152613.jpg
+2026-06-03 15:26:19 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152619.jpg
+2026-06-03 15:26:19 | FIGHT                     | Fight detected! Reason: close proximity, rapid motion | screenshots\fight_20260603_152619.jpg
+2026-06-03 15:26:25 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152625.jpg
+2026-06-03 15:26:26 | FIGHT                     | Fight detected! Reason: close proximity, rapid motion | screenshots\fight_20260603_152626.jpg
+2026-06-03 15:26:27 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_152627.jpg
+2026-06-03 15:26:27 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_152627.jpg
+2026-06-03 15:26:31 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152631.jpg
+2026-06-03 15:26:32 | FIGHT                     | Fight detected! Reason: close proximity, rapid motion | screenshots\fight_20260603_152632.jpg
+2026-06-03 15:26:33 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_152633.jpg
+2026-06-03 15:26:33 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_152633.jpg
+2026-06-03 15:26:37 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152637.jpg
+2026-06-03 15:26:38 | FIGHT                     | Fight detected! Reason: close proximity, rapid motion | screenshots\fight_20260603_152638.jpg
+2026-06-03 15:26:51 | CHEAT                     | Cheating detected! Reason: 2 faces detected | screenshots\cheat_20260603_152651.jpg
+2026-06-03 15:27:04 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_152704.jpg
+2026-06-03 15:27:34 | CHEAT                     | Cheating detected! Reason: Sideways glance | screenshots\cheat_20260603_152734.jpg
+2026-06-03 15:27:48 | CHEAT                     | Cheating detected! Reason: Sideways glance | screenshots\cheat_20260603_152748.jpg
+2026-06-03 15:28:08 | CHEAT                     | Cheating detected! Reason: 2 faces detected | screenshots\cheat_20260603_152808.jpg
+2026-06-03 15:28:23 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_152823.jpg
+2026-06-03 15:28:23 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_152823.jpg
+2026-06-03 15:28:31 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_152831.jpg
+2026-06-03 15:28:31 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_152831.jpg
+2026-06-03 15:28:37 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_152837.jpg
+2026-06-03 15:28:37 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_152837.jpg
+2026-06-03 15:28:48 | CHEAT                     | Cheating detected! Reason: 2 faces detected | screenshots\cheat_20260603_152848.jpg
+2026-06-03 15:30:16 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_153016.jpg
+2026-06-03 15:30:23 | CROWD                     | 4 people detected (threshold: 3) | screenshots\crowd_20260603_153023.jpg
+2026-06-03 15:30:34 | CHEAT                     | Cheating detected! Reason: Head turned (looking RIGHT) | screenshots\cheat_20260603_153034.jpg
+2026-06-03 15:31:01 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_153101.jpg
+2026-06-03 15:31:01 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_153101.jpg
+2026-06-03 15:32:24 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_153224.jpg
+2026-06-03 15:32:24 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_153224.jpg
+2026-06-03 15:32:30 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_153230.jpg
+2026-06-03 15:32:31 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_153231.jpg
+2026-06-03 15:32:37 | CHEAT                     | Cheating detected! Reason: Phone detected | screenshots\cheat_20260603_153237.jpg
+2026-06-03 15:32:37 | PHONE                     | Phone spotted in surveillance area. | screenshots\phone_20260603_153237.jpg
+2026-06-03 15:32:53 | CHEAT                     | Cheating detected! Reason: Sideways glance | screenshots\cheat_20260603_153253.jpg
+2026-06-03 15:33:02 | CHEAT                     | Cheating detected! Reason: Sideways glance | screenshots\cheat_20260603_153302.jpg
+2026-06-03 15:35:39 | CROWD                     | 3 people detected (threshold: 3) | screenshots\crowd_20260603_153539.jpg
+2026-06-09 16:00:23 | CROWD                | 3 people detected | screenshots\crowd_20260609_160023.jpg
+2026-06-09 16:00:25 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_160025.jpg
+2026-06-09 16:00:43 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260609_160043.jpg
+2026-06-09 16:00:53 | CROWD                | 3 people detected | screenshots\crowd_20260609_160053.jpg
+2026-06-09 16:00:58 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160058.jpg
+2026-06-09 16:00:58 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160058.jpg
+2026-06-09 16:01:09 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260609_160109.jpg
+2026-06-09 16:01:31 | CROWD                | 3 people detected | screenshots\crowd_20260609_160131.jpg
+2026-06-09 16:01:37 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_160137.jpg
+2026-06-09 16:01:37 | CROWD                | 4 people detected | screenshots\crowd_20260609_160137.jpg
+2026-06-09 16:01:43 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160143.jpg
+2026-06-09 16:01:43 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160143.jpg
+2026-06-09 16:01:49 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160149.jpg
+2026-06-09 16:01:49 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160149.jpg
+2026-06-09 16:01:55 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160155.jpg
+2026-06-09 16:01:55 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160155.jpg
+2026-06-09 16:02:15 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_160215.jpg
+2026-06-09 16:02:24 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_160224.jpg
+2026-06-09 16:02:55 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260609_160255.jpg
+2026-06-09 16:03:22 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160322.jpg
+2026-06-09 16:03:22 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160322.jpg
+2026-06-09 16:03:31 | CROWD                | 3 people detected | screenshots\crowd_20260609_160331.jpg
+2026-06-09 16:03:42 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_160342.jpg
+2026-06-09 16:03:46 | CROWD                | 3 people detected | screenshots\crowd_20260609_160346.jpg
+2026-06-09 16:03:57 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_160357.jpg
+2026-06-09 16:04:00 | CROWD                | 3 people detected | screenshots\crowd_20260609_160400.jpg
+2026-06-09 16:04:07 | CROWD                | 3 people detected | screenshots\crowd_20260609_160407.jpg
+2026-06-09 16:04:16 | CROWD                | 3 people detected | screenshots\crowd_20260609_160416.jpg
+2026-06-09 16:04:29 | CROWD                | 3 people detected | screenshots\crowd_20260609_160429.jpg
+2026-06-09 16:04:37 | CROWD                | 3 people detected | screenshots\crowd_20260609_160437.jpg
+2026-06-09 16:04:44 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_160444.jpg
+2026-06-09 16:04:44 | CROWD                | 3 people detected | screenshots\crowd_20260609_160444.jpg
+2026-06-09 16:04:53 | CROWD                | 3 people detected | screenshots\crowd_20260609_160453.jpg
+2026-06-09 16:04:56 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_160456.jpg
+2026-06-09 16:05:02 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160502.jpg
+2026-06-09 16:05:02 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160502.jpg
+2026-06-09 16:05:23 | CROWD                | 3 people detected | screenshots\crowd_20260609_160523.jpg
+2026-06-09 16:06:33 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160633.jpg
+2026-06-09 16:06:33 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160633.jpg
+2026-06-09 16:06:40 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160640.jpg
+2026-06-09 16:06:40 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160640.jpg
+2026-06-09 16:07:07 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160707.jpg
+2026-06-09 16:07:07 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160707.jpg
+2026-06-09 16:07:09 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_160709.jpg
+2026-06-09 16:07:33 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160733.jpg
+2026-06-09 16:07:33 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_160733.jpg
+2026-06-09 16:07:33 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160733.jpg
+2026-06-09 16:07:36 | FIGHT                | Fight! arms raised, rapid motion | screenshots\fight_20260609_160736.jpg
+2026-06-09 16:07:41 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160741.jpg
+2026-06-09 16:07:41 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160741.jpg
+2026-06-09 16:07:45 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_160745.jpg
+2026-06-09 16:07:48 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160748.jpg
+2026-06-09 16:07:48 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160748.jpg
+2026-06-09 16:07:51 | CROWD                | 3 people detected | screenshots\crowd_20260609_160751.jpg
+2026-06-09 16:07:54 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160754.jpg
+2026-06-09 16:07:54 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160754.jpg
+2026-06-09 16:07:57 | CROWD                | 3 people detected | screenshots\crowd_20260609_160757.jpg
+2026-06-09 16:08:33 | CROWD                | 3 people detected | screenshots\crowd_20260609_160833.jpg
+2026-06-09 16:08:42 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160842.jpg
+2026-06-09 16:08:42 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160842.jpg
+2026-06-09 16:08:55 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160855.jpg
+2026-06-09 16:08:55 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160855.jpg
+2026-06-09 16:09:01 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160901.jpg
+2026-06-09 16:09:01 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160901.jpg
+2026-06-09 16:09:08 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160908.jpg
+2026-06-09 16:09:08 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160908.jpg
+2026-06-09 16:09:22 | CROWD                | 3 people detected | screenshots\crowd_20260609_160922.jpg
+2026-06-09 16:09:25 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_160925.jpg
+2026-06-09 16:09:29 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_160929.jpg
+2026-06-09 16:09:32 | CROWD                | 3 people detected | screenshots\crowd_20260609_160932.jpg
+2026-06-09 16:09:43 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160943.jpg
+2026-06-09 16:09:43 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160943.jpg
+2026-06-09 16:09:50 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160950.jpg
+2026-06-09 16:09:50 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160950.jpg
+2026-06-09 16:09:56 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_160956.jpg
+2026-06-09 16:09:57 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_160957.jpg
+2026-06-09 16:10:03 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161003.jpg
+2026-06-09 16:10:03 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161003.jpg
+2026-06-09 16:10:11 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161011.jpg
+2026-06-09 16:10:11 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161011.jpg
+2026-06-09 16:10:30 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260609_161030.jpg
+2026-06-09 16:10:35 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_161035.jpg
+2026-06-09 16:16:48 | CHEAT                | Cheating! Phone detected | Sideways glance | screenshots\cheat_20260609_161648.jpg
+2026-06-09 16:16:48 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161648.jpg
+2026-06-09 16:17:16 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_161716.jpg
+2026-06-09 16:17:42 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161742.jpg
+2026-06-09 16:17:42 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161742.jpg
+2026-06-09 16:17:48 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161748.jpg
+2026-06-09 16:17:48 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161748.jpg
+2026-06-09 16:18:37 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_161837.jpg
+2026-06-09 16:18:37 | CROWD                | 4 people detected | screenshots\crowd_20260609_161837.jpg
+2026-06-09 16:18:38 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_161838.jpg
+2026-06-09 16:18:43 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_161843.jpg
+2026-06-09 16:18:43 | CROWD                | 3 people detected | screenshots\crowd_20260609_161843.jpg
+2026-06-09 16:19:01 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161901.jpg
+2026-06-09 16:19:01 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161901.jpg
+2026-06-09 16:19:18 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161918.jpg
+2026-06-09 16:19:18 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161918.jpg
+2026-06-09 16:19:24 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_161924.jpg
+2026-06-09 16:19:24 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_161924.jpg
+2026-06-09 16:21:34 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162134.jpg
+2026-06-09 16:21:34 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162134.jpg
+2026-06-09 16:21:40 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162140.jpg
+2026-06-09 16:21:40 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162140.jpg
+2026-06-09 16:21:46 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162146.jpg
+2026-06-09 16:21:46 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162146.jpg
+2026-06-09 16:21:56 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162156.jpg
+2026-06-09 16:21:56 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162156.jpg
+2026-06-09 16:24:03 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162403.jpg
+2026-06-09 16:24:03 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162403.jpg
+2026-06-09 16:25:10 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162510.jpg
+2026-06-09 16:25:10 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162510.jpg
+2026-06-09 16:25:10 | CROWD                | 4 people detected | screenshots\crowd_20260609_162510.jpg
+2026-06-09 16:25:10 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162510.jpg
+2026-06-09 16:25:13 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162513.jpg
+2026-06-09 16:25:16 | CHEAT                | Cheating! Head turn (looking LEFT) | Phone detected | Sideways glance | screenshots\cheat_20260609_162516.jpg
+2026-06-09 16:25:16 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162516.jpg
+2026-06-09 16:25:16 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162516.jpg
+2026-06-09 16:25:18 | CROWD                | 3 people detected | screenshots\crowd_20260609_162518.jpg
+2026-06-09 16:25:19 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162519.jpg
+2026-06-09 16:25:22 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162522.jpg
+2026-06-09 16:25:25 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162525.jpg
+2026-06-09 16:25:25 | CHEAT                | Cheating! Head turn (looking LEFT) | Sideways glance | screenshots\cheat_20260609_162525.jpg
+2026-06-09 16:25:27 | CROWD                | 3 people detected | screenshots\crowd_20260609_162527.jpg
+2026-06-09 16:25:29 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162529.jpg
+2026-06-09 16:25:30 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162530.jpg
+2026-06-09 16:25:31 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162531.jpg
+2026-06-09 16:25:31 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260609_162531.jpg
+2026-06-09 16:25:35 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162535.jpg
+2026-06-09 16:25:37 | CROWD                | 3 people detected | screenshots\crowd_20260609_162537.jpg
+2026-06-09 16:25:38 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162538.jpg
+2026-06-09 16:25:39 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_162539.jpg
+2026-06-09 16:25:41 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162541.jpg
+2026-06-09 16:25:43 | CROWD                | 3 people detected | screenshots\crowd_20260609_162543.jpg
+2026-06-09 16:25:44 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162544.jpg
+2026-06-09 16:25:45 | CHEAT                | Cheating! Head turn (looking LEFT) | Sideways glance | screenshots\cheat_20260609_162545.jpg
+2026-06-09 16:25:47 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162547.jpg
+2026-06-09 16:25:50 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162550.jpg
+2026-06-09 16:25:52 | CHEAT                | Cheating! Head turn (looking LEFT) | Sideways glance | screenshots\cheat_20260609_162552.jpg
+2026-06-09 16:25:54 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162553.jpg
+2026-06-09 16:25:55 | CROWD                | 3 people detected | screenshots\crowd_20260609_162555.jpg
+2026-06-09 16:25:57 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162557.jpg
+2026-06-09 16:25:58 | CHEAT                | Cheating! Head turn (looking LEFT) | 2 faces | screenshots\cheat_20260609_162558.jpg
+2026-06-09 16:25:59 | PHONE                | Phone in surveillance area | screenshots\phone_20260609_162559.jpg
+2026-06-09 16:26:00 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162600.jpg
+2026-06-09 16:26:01 | CROWD                | 3 people detected | screenshots\crowd_20260609_162601.jpg
+2026-06-09 16:26:03 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162603.jpg
+2026-06-09 16:26:04 | CHEAT                | Cheating! Head turn (looking RIGHT) | Sideways glance | screenshots\cheat_20260609_162604.jpg
+2026-06-09 16:26:07 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162607.jpg
+2026-06-09 16:26:09 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162609.jpg
+2026-06-09 16:26:10 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_162610.jpg
+2026-06-09 16:26:13 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162613.jpg
+2026-06-09 16:26:13 | CROWD                | 3 people detected | screenshots\crowd_20260609_162613.jpg
+2026-06-09 16:26:15 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162615.jpg
+2026-06-09 16:26:17 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260609_162617.jpg
+2026-06-09 16:26:20 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162620.jpg
+2026-06-09 16:26:22 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162622.jpg
+2026-06-09 16:26:26 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162626.jpg
+2026-06-09 16:26:28 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162628.jpg
+2026-06-09 16:26:32 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162632.jpg
+2026-06-09 16:26:32 | CROWD                | 3 people detected | screenshots\crowd_20260609_162632.jpg
+2026-06-09 16:26:34 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162634.jpg
+2026-06-09 16:26:34 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260609_162634.jpg
+2026-06-09 16:26:39 | CROWD                | 3 people detected | screenshots\crowd_20260609_162639.jpg
+2026-06-09 16:26:40 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162640.jpg
+2026-06-09 16:26:40 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260609_162640.jpg
+2026-06-09 16:26:42 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162642.jpg
+2026-06-09 16:26:46 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260609_162646.jpg
+2026-06-09 16:26:47 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260609_162647.jpg
+2026-06-09 16:26:48 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260609_162648.jpg
+2026-06-15 15:30:31 | CROWD                | 4 people detected | screenshots\crowd_20260615_153031.jpg
+2026-06-15 15:30:32 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153032.jpg
+2026-06-15 15:30:33 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153033.jpg
+2026-06-15 15:30:38 | ATTENDANCE           | aashi marked present
+2026-06-15 15:30:38 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_153038.jpg
+2026-06-15 15:31:15 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153115.jpg
+2026-06-15 15:31:17 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153117.jpg
+2026-06-15 15:31:18 | CROWD                | 3 people detected | screenshots\crowd_20260615_153118.jpg
+2026-06-15 15:31:23 | FIGHT                | Fight!  | screenshots\fight_20260615_153123.jpg
+2026-06-15 15:31:59 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153159.jpg
+2026-06-15 15:32:10 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260615_153210.jpg
+2026-06-15 15:32:10 | PHONE                | Phone in surveillance area | screenshots\phone_20260615_153210.jpg
+2026-06-15 15:32:16 | CROWD                | 3 people detected | screenshots\crowd_20260615_153216.jpg
+2026-06-15 15:32:29 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260615_153229.jpg
+2026-06-15 15:32:42 | CROWD                | 3 people detected | screenshots\crowd_20260615_153242.jpg
+2026-06-15 15:33:10 | CROWD                | 3 people detected | screenshots\crowd_20260615_153310.jpg
+2026-06-15 15:33:14 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153314.jpg
+2026-06-15 15:33:17 | CROWD                | 3 people detected | screenshots\crowd_20260615_153317.jpg
+2026-06-15 15:33:23 | CROWD                | 3 people detected | screenshots\crowd_20260615_153323.jpg
+2026-06-15 15:33:24 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153324.jpg
+2026-06-15 15:33:25 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153325.jpg
+2026-06-15 15:33:30 | CROWD                | 4 people detected | screenshots\crowd_20260615_153330.jpg
+2026-06-15 15:33:32 | CHEAT                | Cheating! Head turn (looking LEFT) | Sideways glance | screenshots\cheat_20260615_153332.jpg
+2026-06-15 15:33:35 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153335.jpg
+2026-06-15 15:33:36 | CROWD                | 3 people detected | screenshots\crowd_20260615_153336.jpg
+2026-06-15 15:33:41 | FIGHT                | Fight! arms raised, rapid motion | screenshots\fight_20260615_153341.jpg
+2026-06-15 15:33:44 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153344.jpg
+2026-06-15 15:33:51 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153351.jpg
+2026-06-15 15:33:57 | CHEAT                | Cheating! Head turn (looking RIGHT) | Sideways glance | screenshots\cheat_20260615_153357.jpg
+2026-06-15 15:33:59 | CROWD                | 3 people detected | screenshots\crowd_20260615_153359.jpg
+2026-06-15 15:34:03 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153403.jpg
+2026-06-15 15:34:05 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153405.jpg
+2026-06-15 15:34:05 | CROWD                | 3 people detected | screenshots\crowd_20260615_153405.jpg
+2026-06-15 15:34:10 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153410.jpg
+2026-06-15 15:34:13 | CROWD                | 3 people detected | screenshots\crowd_20260615_153413.jpg
+2026-06-15 15:34:19 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153419.jpg
+2026-06-15 15:34:25 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153425.jpg
+2026-06-15 15:34:25 | CROWD                | 3 people detected | screenshots\crowd_20260615_153425.jpg
+2026-06-15 15:34:32 | CROWD                | 3 people detected | screenshots\crowd_20260615_153432.jpg
+2026-06-15 15:35:04 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_153504.jpg
+2026-06-15 15:35:04 | CROWD                | 3 people detected | screenshots\crowd_20260615_153504.jpg
+2026-06-15 15:35:06 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153506.jpg
+2026-06-15 15:35:12 | CROWD                | 3 people detected | screenshots\crowd_20260615_153512.jpg
+2026-06-15 15:35:18 | CROWD                | 4 people detected | screenshots\crowd_20260615_153518.jpg
+2026-06-15 15:35:24 | CROWD                | 3 people detected | screenshots\crowd_20260615_153524.jpg
+2026-06-15 15:35:31 | CROWD                | 4 people detected | screenshots\crowd_20260615_153531.jpg
+2026-06-15 15:35:37 | CROWD                | 3 people detected | screenshots\crowd_20260615_153537.jpg
+2026-06-15 15:35:41 | CHEAT                | Cheating! Head turn (looking LEFT) | Sideways glance | screenshots\cheat_20260615_153541.jpg
+2026-06-15 15:35:44 | CROWD                | 3 people detected | screenshots\crowd_20260615_153544.jpg
+2026-06-15 15:35:47 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153547.jpg
+2026-06-15 15:35:50 | CROWD                | 4 people detected | screenshots\crowd_20260615_153550.jpg
+2026-06-15 15:35:54 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153554.jpg
+2026-06-15 15:35:56 | CROWD                | 3 people detected | screenshots\crowd_20260615_153556.jpg
+2026-06-15 15:36:00 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153600.jpg
+2026-06-15 15:36:03 | CROWD                | 3 people detected | screenshots\crowd_20260615_153603.jpg
+2026-06-15 15:36:09 | CROWD                | 3 people detected | screenshots\crowd_20260615_153609.jpg
+2026-06-15 15:36:15 | CROWD                | 3 people detected | screenshots\crowd_20260615_153615.jpg
+2026-06-15 15:36:22 | CROWD                | 3 people detected | screenshots\crowd_20260615_153622.jpg
+2026-06-15 15:36:28 | CROWD                | 3 people detected | screenshots\crowd_20260615_153628.jpg
+2026-06-15 15:36:34 | CROWD                | 3 people detected | screenshots\crowd_20260615_153634.jpg
+2026-06-15 15:36:40 | CROWD                | 3 people detected | screenshots\crowd_20260615_153640.jpg
+2026-06-15 15:36:46 | CROWD                | 3 people detected | screenshots\crowd_20260615_153646.jpg
+2026-06-15 15:36:53 | CROWD                | 3 people detected | screenshots\crowd_20260615_153653.jpg
+2026-06-15 15:36:59 | CROWD                | 3 people detected | screenshots\crowd_20260615_153659.jpg
+2026-06-15 15:37:05 | CROWD                | 3 people detected | screenshots\crowd_20260615_153705.jpg
+2026-06-15 15:37:12 | CROWD                | 3 people detected | screenshots\crowd_20260615_153712.jpg
+2026-06-15 15:37:18 | CROWD                | 3 people detected | screenshots\crowd_20260615_153718.jpg
+2026-06-15 15:37:25 | CROWD                | 3 people detected | screenshots\crowd_20260615_153725.jpg
+2026-06-15 15:37:31 | CROWD                | 3 people detected | screenshots\crowd_20260615_153731.jpg
+2026-06-15 15:37:37 | CROWD                | 3 people detected | screenshots\crowd_20260615_153737.jpg
+2026-06-15 15:37:43 | CROWD                | 3 people detected | screenshots\crowd_20260615_153743.jpg
+2026-06-15 15:37:53 | CROWD                | 4 people detected | screenshots\crowd_20260615_153753.jpg
+2026-06-15 15:37:55 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153755.jpg
+2026-06-15 15:38:12 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153812.jpg
+2026-06-15 15:38:14 | CROWD                | 3 people detected | screenshots\crowd_20260615_153814.jpg
+2026-06-15 15:38:20 | CROWD                | 3 people detected | screenshots\crowd_20260615_153820.jpg
+2026-06-15 15:38:26 | CROWD                | 3 people detected | screenshots\crowd_20260615_153826.jpg
+2026-06-15 15:38:33 | CROWD                | 4 people detected | screenshots\crowd_20260615_153833.jpg
+2026-06-15 15:38:39 | CROWD                | 3 people detected | screenshots\crowd_20260615_153839.jpg
+2026-06-15 15:38:46 | CROWD                | 3 people detected | screenshots\crowd_20260615_153846.jpg
+2026-06-15 15:38:50 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153850.jpg
+2026-06-15 15:38:52 | CROWD                | 6 people detected | screenshots\crowd_20260615_153852.jpg
+2026-06-15 15:38:53 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153853.jpg
+2026-06-15 15:38:56 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153856.jpg
+2026-06-15 15:38:58 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_153858.jpg
+2026-06-15 15:38:58 | CROWD                | 5 people detected | screenshots\crowd_20260615_153858.jpg
+2026-06-15 15:38:59 | PHONE                | Phone in surveillance area | screenshots\phone_20260615_153859.jpg
+2026-06-15 15:39:05 | CROWD                | 4 people detected | screenshots\crowd_20260615_153905.jpg
+2026-06-15 15:39:09 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153909.jpg
+2026-06-15 15:39:10 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_153910.jpg
+2026-06-15 15:39:11 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260615_153911.jpg
+2026-06-15 15:39:11 | CROWD                | 4 people detected | screenshots\crowd_20260615_153911.jpg
+2026-06-15 15:39:11 | PHONE                | Phone in surveillance area | screenshots\phone_20260615_153911.jpg
+2026-06-15 15:39:15 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_153915.jpg
+2026-06-15 15:39:17 | CROWD                | 3 people detected | screenshots\crowd_20260615_153917.jpg
+2026-06-15 15:39:18 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153918.jpg
+2026-06-15 15:39:19 | PHONE                | Phone in surveillance area | screenshots\phone_20260615_153919.jpg
+2026-06-15 15:39:21 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153921.jpg
+2026-06-15 15:39:23 | CROWD                | 3 people detected | screenshots\crowd_20260615_153923.jpg
+2026-06-15 15:39:24 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_153924.jpg
+2026-06-15 15:39:27 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153927.jpg
+2026-06-15 15:39:30 | CROWD                | 3 people detected | screenshots\crowd_20260615_153930.jpg
+2026-06-15 15:39:33 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153933.jpg
+2026-06-15 15:39:34 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_153934.jpg
+2026-06-15 15:39:35 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_153935.jpg
+2026-06-15 15:39:36 | CROWD                | 4 people detected | screenshots\crowd_20260615_153936.jpg
+2026-06-15 15:39:39 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_153939.jpg
+2026-06-15 15:39:43 | CROWD                | 3 people detected | screenshots\crowd_20260615_153943.jpg
+2026-06-15 15:39:43 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_153943.jpg
+2026-06-15 15:39:46 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153946.jpg
+2026-06-15 15:39:49 | CROWD                | 5 people detected | screenshots\crowd_20260615_153949.jpg
+2026-06-15 15:39:52 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153952.jpg
+2026-06-15 15:39:55 | CROWD                | 3 people detected | screenshots\crowd_20260615_153955.jpg
+2026-06-15 15:39:58 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_153958.jpg
+2026-06-15 15:40:02 | CROWD                | 6 people detected | screenshots\crowd_20260615_154002.jpg
+2026-06-15 15:40:04 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_154004.jpg
+2026-06-15 15:40:08 | CROWD                | 3 people detected | screenshots\crowd_20260615_154008.jpg
+2026-06-15 15:40:11 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154011.jpg
+2026-06-15 15:40:14 | CROWD                | 3 people detected | screenshots\crowd_20260615_154014.jpg
+2026-06-15 15:40:17 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_154017.jpg
+2026-06-15 15:40:35 | ATTENDANCE           | aashi marked present
+2026-06-15 15:40:35 | CROWD                | 4 people detected | screenshots\crowd_20260615_154035.jpg
+2026-06-15 15:40:38 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_154038.jpg
+2026-06-15 15:40:42 | CROWD                | 4 people detected | screenshots\crowd_20260615_154042.jpg
+2026-06-15 15:40:44 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_154044.jpg
+2026-06-15 15:40:45 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_154045.jpg
+2026-06-15 15:40:50 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154050.jpg
+2026-06-15 15:40:52 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_154052.jpg
+2026-06-15 15:40:52 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_154052.jpg
+2026-06-15 15:40:56 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_154056.jpg
+2026-06-15 15:41:01 | CROWD                | 4 people detected | screenshots\crowd_20260615_154101.jpg
+2026-06-15 15:41:02 | FIGHT                | Fight! close proximity, rapid motion | screenshots\fight_20260615_154102.jpg
+2026-06-15 15:41:02 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_154102.jpg
+2026-06-15 15:41:08 | CROWD                | 4 people detected | screenshots\crowd_20260615_154108.jpg
+2026-06-15 15:41:08 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154108.jpg
+2026-06-15 15:41:08 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_154108.jpg
+2026-06-15 15:41:14 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154114.jpg
+2026-06-15 15:41:14 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_154114.jpg
+2026-06-15 15:41:21 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154121.jpg
+2026-06-15 15:41:21 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_154121.jpg
+2026-06-15 15:41:26 | CROWD                | 4 people detected | screenshots\crowd_20260615_154126.jpg
+2026-06-15 15:41:27 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154127.jpg
+2026-06-15 15:41:27 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_154127.jpg
+2026-06-15 15:41:34 | FIGHT                | Fight! rapid motion | screenshots\fight_20260615_154134.jpg
+2026-06-15 15:41:35 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260615_154135.jpg
+2026-06-15 15:42:04 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_154204.jpg
+2026-06-15 15:42:06 | CROWD                | 4 people detected | screenshots\crowd_20260615_154206.jpg
+2026-06-15 16:17:52 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161752.jpg
+2026-06-15 16:17:52 | CROWD                | 4 people detected | screenshots\crowd_20260615_161752.jpg
+2026-06-15 16:17:56 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260615_161756.jpg
+2026-06-15 16:17:56 | PHONE                | Phone in surveillance area | screenshots\phone_20260615_161756.jpg
+2026-06-15 16:17:58 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161758.jpg
+2026-06-15 16:17:58 | CROWD                | 4 people detected | screenshots\crowd_20260615_161758.jpg
+2026-06-15 16:18:02 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260615_161802.jpg
+2026-06-15 16:18:03 | ATTENDANCE           | aashi marked present
+2026-06-15 16:18:05 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161805.jpg
+2026-06-15 16:18:14 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_161814.jpg
+2026-06-15 16:18:33 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161833.jpg
+2026-06-15 16:18:40 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161840.jpg
+2026-06-15 16:18:43 | CROWD                | 5 people detected | screenshots\crowd_20260615_161843.jpg
+2026-06-15 16:18:47 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161847.jpg
+2026-06-15 16:18:54 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161854.jpg
+2026-06-15 16:18:56 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_161856.jpg
+2026-06-15 16:19:01 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161901.jpg
+2026-06-15 16:19:08 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161908.jpg
+2026-06-15 16:19:15 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161915.jpg
+2026-06-15 16:19:21 | CROWD                | 4 people detected | screenshots\crowd_20260615_161921.jpg
+2026-06-15 16:19:32 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_161932.jpg
+2026-06-15 16:19:32 | CROWD                | 5 people detected | screenshots\crowd_20260615_161932.jpg
+2026-06-15 16:19:37 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_161937.jpg
+2026-06-15 16:20:10 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_162010.jpg
+2026-06-15 16:20:10 | CROWD                | 4 people detected | screenshots\crowd_20260615_162010.jpg
+2026-06-15 16:20:17 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_162017.jpg
+2026-06-15 16:20:17 | CROWD                | 4 people detected | screenshots\crowd_20260615_162017.jpg
+2026-06-15 16:20:25 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_162025.jpg
+2026-06-15 16:20:33 | CROWD                | 4 people detected | screenshots\crowd_20260615_162033.jpg
+2026-06-15 16:20:42 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260615_162042.jpg
+2026-06-15 16:20:42 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_162042.jpg
+2026-06-15 16:20:42 | PHONE                | Phone in surveillance area | screenshots\phone_20260615_162042.jpg
+2026-06-15 16:20:54 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162054.jpg
+2026-06-15 16:21:04 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162104.jpg
+2026-06-15 16:21:12 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162112.jpg
+2026-06-15 16:21:18 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162118.jpg
+2026-06-15 16:21:27 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162127.jpg
+2026-06-15 16:21:47 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162147.jpg
+2026-06-15 16:21:54 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162154.jpg
+2026-06-15 16:22:01 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162201.jpg
+2026-06-15 16:22:08 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162208.jpg
+2026-06-15 16:22:19 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162219.jpg
+2026-06-15 16:22:47 | ATTENDANCE           | aashi marked present
+2026-06-15 16:22:51 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_162251.jpg
+2026-06-15 16:22:56 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162256.jpg
+2026-06-15 16:22:58 | RESTRICTED           | Zone breach detected! | screenshots\restricted_20260615_162258.jpg
+2026-06-15 16:23:02 | CHEAT                | Cheating! 2 faces | screenshots\cheat_20260615_162302.jpg
+2026-06-22 13:40:42 | ATTENDANCE           | aashi marked present
+2026-06-22 13:42:10 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_134210.jpg
+2026-06-22 13:42:10 | PHONE                | Phone in surveillance area | screenshots\phone_20260622_134210.jpg
+2026-06-22 13:49:05 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_134905.jpg
+2026-06-22 13:49:05 | PHONE                | Phone in surveillance area | screenshots\phone_20260622_134905.jpg
+2026-06-22 13:49:12 | ATTENDANCE           | aashi marked present
+2026-06-22 13:49:33 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_134933.jpg
+2026-06-22 13:49:33 | PHONE                | Phone in surveillance area | screenshots\phone_20260622_134933.jpg
+2026-06-22 13:49:59 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_134959.jpg
+2026-06-22 13:49:59 | PHONE                | Phone in surveillance area | screenshots\phone_20260622_134959.jpg
+2026-06-22 13:58:57 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_135857.jpg
+2026-06-22 13:58:57 | PHONE                | Phone in surveillance area
+2026-06-22 13:59:41 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_135941.jpg
+2026-06-22 13:59:41 | PHONE                | Phone in surveillance area
+2026-06-22 14:01:03 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_140103.jpg
+2026-06-22 14:01:03 | PHONE                | Phone in surveillance area
+2026-06-22 14:01:10 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260622_140110.jpg
+2026-06-22 14:01:10 | CROWD                | 4 people detected
+2026-06-22 14:01:17 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260622_140117.jpg
+2026-06-22 14:04:13 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260622_140413.jpg
+2026-06-22 14:04:13 | PHONE                | Phone in surveillance area
+2026-06-24 14:36:32 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_143632.jpg
+2026-06-24 14:36:32 | PHONE                | Phone in surveillance area
+2026-06-24 14:36:56 | CROWD                | 4 people detected
+2026-06-24 14:37:25 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_143725.jpg
+2026-06-24 14:37:25 | PHONE                | Phone in surveillance area
+2026-06-24 14:38:15 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_143815.jpg
+2026-06-24 14:38:15 | PHONE                | Phone in surveillance area
+2026-06-24 14:38:27 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_143827.jpg
+2026-06-24 14:39:06 | CROWD                | 4 people detected
+2026-06-24 14:39:57 | CROWD                | 4 people detected
+2026-06-24 14:41:04 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_144104.jpg
+2026-06-24 14:41:04 | PHONE                | Phone in surveillance area
+2026-06-24 14:46:52 | CROWD                | 4 people detected
+2026-06-24 14:47:20 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_144720.jpg
+2026-06-24 14:47:23 | CROWD                | 5 people detected
+2026-06-24 14:47:29 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_144729.jpg
+2026-06-24 14:47:35 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_144735.jpg
+2026-06-24 14:47:43 | CHEAT                | Cheating! Head turn (looking LEFT) | screenshots\cheat_20260624_144743.jpg
+2026-06-24 14:50:40 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145040.jpg
+2026-06-24 14:50:40 | PHONE                | Phone in surveillance area
+2026-06-24 14:50:58 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145058.jpg
+2026-06-24 14:51:06 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145106.jpg
+2026-06-24 14:51:34 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145134.jpg
+2026-06-24 14:51:34 | PHONE                | Phone in surveillance area
+2026-06-24 14:51:48 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145148.jpg
+2026-06-24 14:55:44 | ATTENDANCE           | aashi marked present
+2026-06-24 14:55:45 | ATTENDANCE           | prerna marked present
+2026-06-24 14:55:57 | CROWD                | 4 people detected
+2026-06-24 14:56:38 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145638.jpg
+2026-06-24 14:56:38 | PHONE                | Phone in surveillance area
+2026-06-24 14:56:53 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145653.jpg
+2026-06-24 14:57:05 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_145705.jpg
+2026-06-24 14:57:25 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260624_145725.jpg
+2026-06-24 15:04:18 | ATTENDANCE           | prerna marked present
+2026-06-24 15:04:20 | ATTENDANCE           | aashi marked present
+2026-06-24 15:04:54 | ATTENDANCE           | aashi marked present
+2026-06-24 15:04:54 | ATTENDANCE           | prerna marked present
+2026-06-24 15:05:36 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_150536.jpg
+2026-06-24 15:05:36 | PHONE                | Phone in surveillance area
+2026-06-24 15:05:42 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_150542.jpg
+2026-06-24 15:05:48 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_150548.jpg
+2026-06-24 15:05:55 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_150555.jpg
+2026-06-24 15:06:00 | CROWD                | 4 people detected
+2026-06-24 15:06:22 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260624_150622.jpg
+2026-06-24 16:08:42 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_160842.jpg
+2026-06-24 16:08:48 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_160848.jpg
+2026-06-24 16:08:50 | ATTENDANCE           | prerna marked present
+2026-06-24 16:08:50 | ATTENDANCE           | aashi marked present
+2026-06-24 16:12:28 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260624_161228.jpg
+2026-06-24 16:13:28 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_161328.jpg
+2026-06-24 16:13:28 | PHONE                | Phone in surveillance area
+2026-06-24 16:16:33 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_161633.jpg
+2026-06-24 16:16:39 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_161639.jpg
+2026-06-24 16:16:45 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_161645.jpg
+2026-06-24 16:16:52 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_161652.jpg
+2026-06-24 16:17:28 | CHEAT                | Cheating! Head turn (looking RIGHT) | screenshots\cheat_20260624_161728.jpg
+2026-06-24 16:20:28 | ATTENDANCE           | mahi marked present
+2026-06-24 16:21:52 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260624_162152.jpg
+2026-06-24 16:22:01 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162201.jpg
+2026-06-24 16:22:01 | PHONE                | Phone in surveillance area
+2026-06-24 16:22:07 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162207.jpg
+2026-06-24 16:22:13 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162213.jpg
+2026-06-24 16:22:19 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162219.jpg
+2026-06-24 16:22:25 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162225.jpg
+2026-06-24 16:22:31 | PHONE                | Phone in surveillance area
+2026-06-24 16:22:31 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162231.jpg
+2026-06-24 16:22:38 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162238.jpg
+2026-06-24 16:22:45 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162245.jpg
+2026-06-24 16:22:51 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162251.jpg
+2026-06-24 16:22:57 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162257.jpg
+2026-06-24 16:23:01 | PHONE                | Phone in surveillance area
+2026-06-24 16:23:04 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162304.jpg
+2026-06-24 16:23:10 | CHEAT                | Cheating! Sideways glance | screenshots\cheat_20260624_162310.jpg
+2026-06-24 16:23:16 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162316.jpg
+2026-06-24 16:23:22 | CHEAT                | Cheating! Phone detected | screenshots\cheat_20260624_162322.jpg
+2026-06-25 12:04:03 | ATTENDANCE           | prerna marked present
+2026-06-25 12:04:07 | ATTENDANCE           | aashi marked present
+2026-06-25 12:13:25 | ATTENDANCE           | prerna marked present
+2026-06-25 12:14:03 | ATTENDANCE           | aashi marked present
+2026-06-25 12:17:33 | ATTENDANCE           | prerna marked present
+2026-06-25 12:17:34 | ATTENDANCE           | aashi marked present
